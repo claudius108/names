@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title xml:lang="en" />
+				<editor role="creator">Claudius Teodorescu</editor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Ratna Design SRL</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Born digital.</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="" />
+			</creation>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<listPlace>
+				<place xml:id="place-78" type="settlement">
+					<placeName xml:id="name78-1" xml:lang="ro"
+						source="#bib78-2 #bib78-5 #bib78-6 #bib78-7" />
+					<desc xml:id="abstract-ro-78" xml:lang="ro">
+						Sat / comună / oraș din județul
+						<placeName ref="https://names.ro/place/...">...</placeName>
+						.
+					</desc>
+					<desc xml:id="abstract-en-78" xml:lang="ro">
+						Village / commune / city of the
+						<placeName ref="https://names.ro/place/...">...</placeName>
+						county.
+					</desc>
+					<!-- <desc xml:lang="en"> -->
+					<!-- <quote source="#bib78-1">183. Edessa</quote> -->
+					<!-- </desc> -->
+					<!-- <location type="gps" source="#bib78-2"> -->
+					<!-- <geo>37.15 38.8</geo> -->
+					<!-- </location> -->
+					<!-- <event when="-0304" source="#bib78-1"> -->
+					<!-- <p xml:lang="en">Renamed Edessa by Seleucus I Nicator.</p> -->
+					<!-- </event> -->
+					<event type="attestation" xml:id="attestation78-8"
+						when="1224" source="#bib78-12">
+						<p xml:lang="en">
+							Atestare nume în
+							<title xml:lang="ro" level="m">...</title>
+							de
+							<persName>...</persName>
+							.
+						</p>
+						<link target="#name78-11 #attestation78-8" />
+						<link target="#name78-12 #attestation78-8" />
+					</event>
+					<state type="existence" from="-0304" />
+
+					<idno type="URI">http://syriaca.org/place/78</idno>
+					<bibl xml:id="bib78-12">
+						<title xml:lang="en" level="m">Muʿjam al-buldān</title>
+						<author>Yāqūt al-Ḥamawī</author>
+						<ptr target="http://syriaca.org/bibl/636" />
+						<citedRange unit="pp">I:155; III:120</citedRange>
+					</bibl>
+				</place>
+				<!-- <relation name="contained" -->
+				<!-- active="http://syriaca.org/place/145 http://syriaca.org/place/166" -->
+				<!-- passive="#place-78" source="#bib78-1" to="0641" /> -->
+			</listPlace>
+		</body>
+	</text>
+</TEI>
