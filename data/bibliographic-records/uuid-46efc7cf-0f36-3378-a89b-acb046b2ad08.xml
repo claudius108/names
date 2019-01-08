@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ro" xml:id="uuid-46efc7cf-0f36-3378-a89b-acb046b2ad08">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="ro">Lista eroilor români înhumați în Cimitirul Zale, Ljubljana, Slovenia</title>
+                <editor role="creator">Claudius Teodorescu</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Ratna Design SRL</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2019-01-13+02:00" who="https://names.ro/documentation/editors.xml#claudius.teodorescu">CREATED: bibliographic entry.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <editor>Ministerul Apărării Naționale</editor>
+                    <title xml:lang="ro" level="m">Lista eroilor români înhumați în Cimitirul Zale, Ljubljana, Slovenia</title>
+                    <imprint>
+                        <publisher>Ministerul Apărării Naționale</publisher>
+                        <date>2018-06-01</date>
+                    </imprint>
+                    <idno type="URI">http://data.gov.ro/dataset/54f8fc0e-935b-4abe-89d1-ea6bf302a625/resource/13ec8898-9288-4cb8-8dc0-62e23632ef25/download/lista-prizonierilor-de-razboi-romani---ljubljana-slovenia.xls</idno>
+                </monogr>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

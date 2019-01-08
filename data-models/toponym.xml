@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ro">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title xml:lang="en" />
+				<title xml:lang="ro" />
 				<editor role="creator">Claudius Teodorescu</editor>
 			</titleStmt>
 			<publicationStmt>

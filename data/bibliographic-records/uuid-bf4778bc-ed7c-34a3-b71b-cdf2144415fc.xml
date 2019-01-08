@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ro" xml:id="uuid-bf4778bc-ed7c-34a3-b71b-cdf2144415fc">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="ro">Lista militarilor romani - lagarul Karaganda, Kazahstan</title>
+                <editor role="creator">Claudius Teodorescu</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Ratna Design SRL</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2019-01-13+02:00" who="https://names.ro/documentation/editors.xml#claudius.teodorescu">CREATED: bibliographic entry.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <editor>Ministerul Apărării Naționale</editor>
+                    <title xml:lang="ro" level="m">Lista militarilor romani - lagarul Karaganda, Kazahstan</title>
+                    <imprint>
+                        <publisher>Ministerul Apărării Naționale</publisher>
+                        <date>2018-10-08</date>
+                    </imprint>
+                    <idno type="URI">http://data.gov.ro/dataset/d421edf2-bf3e-48c6-8417-8586194fb231/resource/6d39887d-3088-4f01-ac6c-80f48304e6f9/download/lista-militarilor-romani---lagarul-karaganda-kazahstanprelucrat.json</idno>
+                </monogr>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

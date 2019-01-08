@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ro" xml:id="uuid-bce3e29f-79f6-35fe-9a27-4c7edee98252">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="ro">Lista_morti_Cimitir_Propatria.xls</title>
+                <editor role="creator">Claudius Teodorescu</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Ratna Design SRL</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2019-01-13+02:00" who="https://names.ro/documentation/editors.xml#claudius.teodorescu">CREATED: bibliographic entry.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <editor>Ministerul Apărării Naționale</editor>
+                    <title xml:lang="ro" level="m">Lista_morti_Cimitir_Propatria.xls</title>
+                    <imprint>
+                        <publisher>Ministerul Apărării Naționale</publisher>
+                        <date>2013-11-01</date>
+                    </imprint>
+                    <idno type="URI">http://data.gov.ro/storage/f/2013-11-04T05%3A52%3A06.325Z/lista-morti-cimitir-propatria.xls</idno>
+                </monogr>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

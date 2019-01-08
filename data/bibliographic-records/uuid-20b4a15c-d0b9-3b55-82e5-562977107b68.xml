@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ro" xml:id="uuid-20b4a15c-d0b9-3b55-82e5-562977107b68">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="ro">Lista eroilor români înhumați în Parcela eroilor din municipiul Craiova, jud. Dolj</title>
+                <editor role="creator">Claudius Teodorescu</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Ratna Design SRL</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2019-01-13+02:00" who="https://names.ro/documentation/editors.xml#claudius.teodorescu">CREATED: bibliographic entry.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <editor>Ministerul Apărării Naționale</editor>
+                    <title xml:lang="ro" level="m">Lista eroilor români înhumați în Parcela eroilor din municipiul Craiova, jud. Dolj</title>
+                    <imprint>
+                        <publisher>Ministerul Apărării Naționale</publisher>
+                        <date>2018-06-01</date>
+                    </imprint>
+                    <idno type="URI">http://data.gov.ro/dataset/707530c6-b458-4766-99ea-a5178b381ad4/resource/a0379da2-e48b-4035-9405-8b2ef87e28de/download/2017djcraiovalista-eroilor-romani.xls</idno>
+                </monogr>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

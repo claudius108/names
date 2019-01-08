@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ro" xml:id="uuid-7542e1f1-e442-3aea-8cc0-610a6891a9b9">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="ro">Evidenţa morţilor de război români identificaţi, din Marele Război, ale căror oseminte sunt centralizate în Mausoleul eroilor din municipiul Tulcea, jud. Tulcea</title>
+                <editor role="creator">Claudius Teodorescu</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Ratna Design SRL</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2019-01-13+02:00" who="https://names.ro/documentation/editors.xml#claudius.teodorescu">CREATED: bibliographic entry.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <editor>Ministerul Apărării Naționale</editor>
+                    <title xml:lang="ro" level="m">Evidenţa morţilor de război români identificaţi, din Marele Război, ale căror oseminte sunt centralizate în Mausoleul eroilor din municipiul Tulcea, jud. Tulcea</title>
+                    <imprint>
+                        <publisher>Ministerul Apărării Naționale</publisher>
+                        <date>2018-06-01</date>
+                    </imprint>
+                    <idno type="URI">http://data.gov.ro/dataset/9e64368f-9ae8-4b52-b8b3-dec05b77d950/resource/2015d0ee-6c9a-424d-aa53-8e614c4532e4/download/2018tulceamorti-de-razboi.xls</idno>
+                </monogr>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

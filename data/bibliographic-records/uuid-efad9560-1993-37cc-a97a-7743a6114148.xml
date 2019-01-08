@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ro" xml:id="uuid-efad9560-1993-37cc-a97a-7743a6114148">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="ro"/>
+                <editor role="creator">Claudius Teodorescu</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Ratna Design SRL</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2019-01-13+02:00" who="https://names.ro/documentation/editors.xml#claudius.teodorescu">CREATED: bibliographic entry.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <editor>Ministerul Apărării Naționale</editor>
+                    <title xml:lang="ro" level="m"/>
+                    <imprint>
+                        <publisher>Ministerul Apărării Naționale</publisher>
+                        <date>2018-05-30</date>
+                    </imprint>
+                    <idno type="URI">http://data.gov.ro/dataset/40774759-2854-47e5-8742-978178c9c935/resource/dfd002a0-8566-4f3e-9fe3-e0298dd81fb9/download/lista-eroilor-romani-din-primul-razboi-mondial---magura-casinului-bacau.xls</idno>
+                </monogr>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

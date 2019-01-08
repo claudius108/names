@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ro" xml:id="uuid-13c70dbc-a1e8-3cf2-b0f4-e86f2b7a9a22">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="ro">Lista eroilor români din Primul Război Mondial,  înhumaţi în cimitirul eroilor din comuna Ghimpaţi,  satul Valea Plopilor, jud. Giurgiu</title>
+                <editor role="creator">Claudius Teodorescu</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Ratna Design SRL</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2019-01-13+02:00" who="https://names.ro/documentation/editors.xml#claudius.teodorescu">CREATED: bibliographic entry.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <editor>Ministerul Apărării Naționale</editor>
+                    <title xml:lang="ro" level="m">Lista eroilor români din Primul Război Mondial,  înhumaţi în cimitirul eroilor din comuna Ghimpaţi,  satul Valea Plopilor, jud. Giurgiu</title>
+                    <imprint>
+                        <publisher>Ministerul Apărării Naționale</publisher>
+                        <date>2018-06-01</date>
+                    </imprint>
+                    <idno type="URI">http://data.gov.ro/dataset/1f499214-b285-46fe-a847-3ef885338792/resource/5fec7f7e-c898-43ed-a465-22b60abc5de4/download/2017valea-plopiloreroi-romani.xls</idno>
+                </monogr>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

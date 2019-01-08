@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ro" xml:id="uuid-a2207eb9-f6c8-3427-9cf7-0ead715c5d1a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="ro">Evidenţa eroilor români identificaţi, din Primul Război Mondial, ale căror oseminte sunt centralizate în Parcela eroilor din municipiul Sfântu Gheorghe, jud. Covasna</title>
+                <editor role="creator">Claudius Teodorescu</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Ratna Design SRL</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2019-01-13+02:00" who="https://names.ro/documentation/editors.xml#claudius.teodorescu">CREATED: bibliographic entry.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <editor>Ministerul Apărării Naționale</editor>
+                    <title xml:lang="ro" level="m">Evidenţa eroilor români identificaţi, din Primul Război Mondial, ale căror oseminte sunt centralizate în Parcela eroilor din municipiul Sfântu Gheorghe, jud. Covasna</title>
+                    <imprint>
+                        <publisher>Ministerul Apărării Naționale</publisher>
+                        <date>2018-06-01</date>
+                    </imprint>
+                    <idno type="URI">http://data.gov.ro/dataset/0b8366ac-9f98-4e16-8af5-429ac441d97c/resource/e4d5005c-d062-4e68-9951-bd8764b1d7cc/download/2017sfantu-gheorgheeroi-romani.xls</idno>
+                </monogr>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

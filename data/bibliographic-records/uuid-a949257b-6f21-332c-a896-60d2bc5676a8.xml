@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ro" xml:id="uuid-a949257b-6f21-332c-a896-60d2bc5676a8">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="ro">Lista eroilor români din Primul Război Mondial - com. Bujoreni, satul Prunaru, jud. Teleorman</title>
+                <editor role="creator">Claudius Teodorescu</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Ratna Design SRL</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2019-01-13+02:00" who="https://names.ro/documentation/editors.xml#claudius.teodorescu">CREATED: bibliographic entry.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <editor>Ministerul Apărării Naționale</editor>
+                    <title xml:lang="ro" level="m">Lista eroilor români din Primul Război Mondial - com. Bujoreni, satul Prunaru, jud. Teleorman</title>
+                    <imprint>
+                        <publisher>Ministerul Apărării Naționale</publisher>
+                        <date>2018-05-30</date>
+                    </imprint>
+                    <idno type="URI">http://data.gov.ro/dataset/be002c7b-de25-4289-b0e1-65876cb01422/resource/f570ce46-df94-4e72-8233-0cd84550330d/download/lista-eroilor-romani-din-primul-razboi-mondial---cimitirul-eroilor-din-comna-bujoreni-satul-prun.xls</idno>
+                </monogr>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

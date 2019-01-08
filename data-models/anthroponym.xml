@@ -1,0 +1,25 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ro">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title xml:lang="ro" />
+				<editor role="creator">Claudius Teodorescu</editor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Ratna Design SRL</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Born digital.</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="" />
+			</creation>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+		</body>
+	</text>
+</TEI>

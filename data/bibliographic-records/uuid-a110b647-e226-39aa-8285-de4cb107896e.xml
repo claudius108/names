@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ro" xml:id="uuid-a110b647-e226-39aa-8285-de4cb107896e">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="ro">Lista eroilor din primul război mondial înhumați în comuna Oituz, sat Poiana Sarată, jud Bacău</title>
+                <editor role="creator">Claudius Teodorescu</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Ratna Design SRL</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2019-01-13+02:00" who="https://names.ro/documentation/editors.xml#claudius.teodorescu">CREATED: bibliographic entry.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <editor>Ministerul Apărării Naționale</editor>
+                    <title xml:lang="ro" level="m">Lista eroilor din primul război mondial înhumați în comuna Oituz, sat Poiana Sarată, jud Bacău</title>
+                    <imprint>
+                        <publisher>Ministerul Apărării Naționale</publisher>
+                        <date>2018-05-23</date>
+                    </imprint>
+                    <idno type="URI">http://data.gov.ro/dataset/8224a719-405b-4fd1-9f04-cb1536796003/resource/eff46aef-77c6-4987-99b7-2d27ce0ec7f1/download/lista-eroilor-din-primul-razboi-mondial-cimitir-comuna-oituz-sat-poiana-sarata-bacau.xls</idno>
+                </monogr>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

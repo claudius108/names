@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ro" xml:id="uuid-944ae03f-61f5-356b-ae98-fecdd0d16ada">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="ro"/>
+                <editor role="creator">Claudius Teodorescu</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Ratna Design SRL</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2019-01-13+02:00" who="https://names.ro/documentation/editors.xml#claudius.teodorescu">CREATED: bibliographic entry.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <editor>Ministerul Apărării Naționale</editor>
+                    <title xml:lang="ro" level="m"/>
+                    <imprint>
+                        <publisher>Ministerul Apărării Naționale</publisher>
+                        <date>2018-05-31</date>
+                    </imprint>
+                    <idno type="URI">http://data.gov.ro/dataset/abb1f71f-cfc2-46bd-b09a-833511d3f10c/resource/adc153f6-1523-42c8-9fe7-1a9e43492e70/download/lista-eroilor-romani-din-primul-razboi-mondial-inhumati-in-cimitirul-eroilor-din-municipiul-pite.xls</idno>
+                </monogr>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>
