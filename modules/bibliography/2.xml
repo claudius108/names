@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ro" xml:id="id">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title xml:lang="ro">Lista eroilor români înhumați în cimitirul
+					eroilor din Calafat, jud. Dolj
+				</title>
+				<editor role="creator">Claudius Teodorescu</editor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Ratna Design SRL</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Born digital.</p>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2018-01-07"
+				who="https://names.ro/documentation/editors.xml#claudius.teodorescu">CREATED: bibliographic entry.</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<biblStruct>
+				<monogr>
+					<editor>Ministerul Apărării Naționale</editor>
+					<title xml:lang="ro" level="m">Lista eroilor români înhumați în
+						cimitirul
+						eroilor din Calafat, jud. Dolj
+					</title>
+					<imprint>
+						<publisher>Ministerul Apărării Naționale</publisher>
+						<date>2016-06-01</date>
+					</imprint>
+					<idno type="URI">http://data.gov.ro/dataset/lista-eroilor-romani-inhumati-in-cimitirul-eroilor-din-calafat-jud-dolj
+					</idno>
+					<idno type="URI">https://drive.google.com/open?id=1TrG6iQ5fuRoAhHbI7stgdyEaG_loyNo6KRRCf6V-LIg
+					</idno>
+				</monogr>
+			</biblStruct>
+		</body>
+	</text>
+</TEI>
